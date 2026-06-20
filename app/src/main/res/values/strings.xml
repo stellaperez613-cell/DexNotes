@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DexNotes</string>
+    <string name="editor_top_bar_title">DexNotes</string>
+    <string name="editor_empty_state">No file open</string>
+</resources>
