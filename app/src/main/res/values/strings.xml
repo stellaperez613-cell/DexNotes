@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">DexNotes</string>
+
+    <!-- Editor screen -->
     <string name="editor_top_bar_title">DexNotes</string>
     <string name="editor_empty_state">No file open</string>
+    <string name="editor_untitled">untitled.txt</string>
+
+    <!-- File menu actions -->
+    <string name="menu_file">File</string>
+    <string name="action_new">New</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_save_as">Save As</string>
+    <string name="action_discard">Discard</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Unsaved-changes dialog -->
+    <string name="dialog_unsaved_title">Unsaved changes</string>
+    <string name="dialog_unsaved_message">"%s" has unsaved changes. Save before leaving?</string>
+
+    <!-- Error messages -->
+    <string name="error_open_failed">Could not open file.</string>
+    <string name="error_save_failed">Could not save file.</string>
 </resources>
